@@ -5,8 +5,14 @@
     "build": "next build"
   },
   "dependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^41.1.0",
+    "@ckeditor/ckeditor5-react": "^6.2.0",
+    "bcryptjs": "^2.4.3",
+    "mongoose": "^8.1.2",
     "next": "latest",
+    "next-auth": "^4.24.5",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-hot-toast": "^2.4.1"
   }
 }
